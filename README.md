@@ -14,6 +14,16 @@
 
 ---
 
+> ### 🀄 配套推荐：Antigravity Desktop 中文汉化包
+> 验证通过后要登录 **Google Antigravity** 来写代码？它默认是全英文界面，连 AI 干活时说的话都是英文。
+> 这里有一个开源的中文汉化包，一键汉化、离线运行、自动跟进官方更新、可一键恢复英文，支持 Windows 与 macOS：
+>
+> 👉 **<https://github.com/Ace2025001/antigravity-desktop-zhcn>**
+>
+> 嫌手动安装麻烦，把上面这个仓库地址发给豆包 / DeepSeek 这类 AI 助手，说一句「帮我装到电脑里」，它就能自动帮你装好。
+
+---
+
 ## 📦 一、安装教程 (Installation)
 
 ### 方式 1：直接下载 Release 压缩包（推荐新手）
@@ -55,6 +65,9 @@ git clone https://github.com/havenicec/google-qr-sms-helper.git
 ---
 
 ### 第 3 步：选择「短信 (Text message)」并输入手机号接码
+
+![验证方式选择页示意](./assets/verify-method-selection.png)
+
 1. 页面会自动跳转进带有单选框的 **验证方式选择页 (`/uplevelingstep/selection`)**：
    - 勾选 **Text message (SMS) / 短信**（或语音通话），点击下一步。
 2. 在手机号输入框中填入你的接码手机号（支持任意国家/地区的接码平台号码或实体卡号），点击发送验证码。
